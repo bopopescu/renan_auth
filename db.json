@@ -1,0 +1,821 @@
+[
+{
+    "model": "sessions.session",
+    "pk": "1zx1wlnd8nozhtpaxbu1y7wiolhri8ui",
+    "fields": {
+        "session_data": "ZjQwYzViYWZkZWQzNzM2ZjBhNzEwY2E1ZGE0ZDc4MjVkYzhiZjkyNDp7Il9hdXRoX3VzZXJfaGFzaCI6ImYzNWU5MTQ3MzY4NjM3ZWZiOTQ3MDZiN2U0ZjliYzA5NGE2YzRjNGEiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJhY2NvdW50cy5iYWNrZW5kcy5FbWFpbEF1dGgiLCJfYXV0aF91c2VyX2lkIjoiMTIifQ==",
+        "expire_date": "2018-02-08T16:39:36.791Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "46rqao21ry54jf5p3j1q9cj5hu4dxico",
+    "fields": {
+        "session_data": "ZjQwYzViYWZkZWQzNzM2ZjBhNzEwY2E1ZGE0ZDc4MjVkYzhiZjkyNDp7Il9hdXRoX3VzZXJfaGFzaCI6ImYzNWU5MTQ3MzY4NjM3ZWZiOTQ3MDZiN2U0ZjliYzA5NGE2YzRjNGEiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJhY2NvdW50cy5iYWNrZW5kcy5FbWFpbEF1dGgiLCJfYXV0aF91c2VyX2lkIjoiMTIifQ==",
+        "expire_date": "2018-02-06T18:12:38.185Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "50idzjpo1ekith3qts3sibtcghwwjq9k",
+    "fields": {
+        "session_data": "MDRkODgxYmY1OWUxZGZjZjdiNDE1MjgxMzdlNGJiNGRlZDNhZjFkNDp7fQ==",
+        "expire_date": "2018-01-29T21:39:55.712Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "9ntx98sdowoj6v8fmbqmobv0yhz44452",
+    "fields": {
+        "session_data": "MDRkODgxYmY1OWUxZGZjZjdiNDE1MjgxMzdlNGJiNGRlZDNhZjFkNDp7fQ==",
+        "expire_date": "2018-01-29T23:10:07.705Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "sry2ohbtz9cxeapfqmgit4vgjnkwk9tb",
+    "fields": {
+        "session_data": "NDc5NTUwY2Q5YjJkNmQzYjkzOWIwNGIxMDU5ZmU1MThkMjYwM2FjYzp7Il9hdXRoX3VzZXJfaGFzaCI6IjliYzVkMTY2ZTNlN2I0ODhhOTliZGJjZTcxMTA0OWU1Mjg5NWM3N2IiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIxMyJ9",
+        "expire_date": "2018-02-03T12:34:40.255Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "u5rrb845ntk2h7qkll7ep603kgi8r4il",
+    "fields": {
+        "session_data": "MDRkODgxYmY1OWUxZGZjZjdiNDE1MjgxMzdlNGJiNGRlZDNhZjFkNDp7fQ==",
+        "expire_date": "2018-01-29T21:54:10.634Z"
+    }
+},
+{
+    "model": "sites.site",
+    "pk": 2,
+    "fields": {
+        "domain": "example.com",
+        "name": "example.com"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$kKdlMxXQjwNj$ee1dvD9yXQ8yOPquptcy3CRK7nbqoa4TpMnns22YD+o=",
+        "last_login": "2018-01-14T18:59:51.842Z",
+        "is_superuser": false,
+        "username": "renan@good.it",
+        "first_name": "",
+        "last_name": "",
+        "email": "renan@good.it",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-01-14T12:09:58.937Z",
+        "stripe_id": "",
+        "subscription_end": "2018-01-15T21:07:22.484Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$R4vDUGrMY8JC$/VqO2nh25x+VadupSmXWK3d4ckOC1zmK8PYk1wT5HMI=",
+        "last_login": "2018-01-14T20:41:06.783Z",
+        "is_superuser": false,
+        "username": "devi@good.it",
+        "first_name": "",
+        "last_name": "",
+        "email": "devi@good.it",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-01-14T20:40:28.338Z",
+        "stripe_id": "tok_1BkIHIAA37MLHXtQRviEVerV",
+        "subscription_end": "2018-01-15T21:07:22.484Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$dQtbmLLHKWWb$WyXaadO8ZTLbNJxNdV7S4f/FLvHlXC/UdQK0Mji/T1I=",
+        "last_login": "2018-01-15T22:18:27.939Z",
+        "is_superuser": false,
+        "username": "goodrenan@good.it",
+        "first_name": "",
+        "last_name": "",
+        "email": "goodrenan@good.it",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-01-15T21:30:06.700Z",
+        "stripe_id": "tok_1BkfWrAA37MLHXtQtULxr2zT",
+        "subscription_end": "2018-01-15T21:30:06.700Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$hH6tNr15JYA1$WnSAsYDoLj4Cjp+btawh9EBGlTGpDFzdZ16RQbY7woI=",
+        "last_login": "2018-01-15T22:00:17.426Z",
+        "is_superuser": false,
+        "username": "devilrenan@good.it",
+        "first_name": "",
+        "last_name": "",
+        "email": "devilrenan@good.it",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-01-15T21:39:52.760Z",
+        "stripe_id": "tok_1BkfgJAA37MLHXtQJutfA4Cg",
+        "subscription_end": "2018-01-15T21:39:52.760Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 5,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$zlyOPbJTRfvQ$7KDd2DsWk4H9tY9RIQiMssn08Ym/2y105Kk0ACQRctg=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "llalaala@lala.com",
+        "first_name": "",
+        "last_name": "",
+        "email": "llalaala@lala.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-01-15T21:47:13.306Z",
+        "stripe_id": "tok_1BkfnPAA37MLHXtQMRm6SbYr",
+        "subscription_end": "2018-01-15T21:47:13.306Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 6,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$n7Ava0reHLv7$AVxylzJgMgMeSt6sSR5KXGCfity3KYjhfRemxQsZPQU=",
+        "last_login": "2018-01-15T22:21:45.614Z",
+        "is_superuser": false,
+        "username": "agoravai@toma.com",
+        "first_name": "",
+        "last_name": "",
+        "email": "agoravai@toma.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-01-15T21:54:07.665Z",
+        "stripe_id": "tok_1Bkfu6AA37MLHXtQDTUhIVkv",
+        "subscription_end": "2018-01-15T21:54:07.665Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 7,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$aXAklFwkBFqb$T8wjFaf/gdF99raxrcsaG9MtqkH2vehFpveN1hx2ZSw=",
+        "last_login": "2018-01-15T22:31:07.466Z",
+        "is_superuser": false,
+        "username": "fuckthis@yeah.com",
+        "first_name": "",
+        "last_name": "",
+        "email": "fuckthis@yeah.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-01-15T22:25:58.412Z",
+        "stripe_id": "tok_1BkgOuAA37MLHXtQcSz5pqW4",
+        "subscription_end": "2018-01-15T22:25:58.412Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 8,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$0UdbyE2AKCoQ$Mg/rn/EfrXEV2iv+G+kihQrDMQSgdYotfS+HnRc6OOg=",
+        "last_login": "2018-01-18T21:07:07.584Z",
+        "is_superuser": false,
+        "username": "renan@night.com",
+        "first_name": "",
+        "last_name": "",
+        "email": "renan@night.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-01-15T22:38:25.227Z",
+        "stripe_id": "tok_1BkgaxAA37MLHXtQ1oC1FRDH",
+        "subscription_end": "2018-01-15T22:38:25.227Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 9,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$3RL6cUXRcJst$dELt4lUlfecQc2be7eaQNSPXKiwqhS9YgHMWcWDGNEM=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "test5@hello.com",
+        "first_name": "",
+        "last_name": "",
+        "email": "test5@hello.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-01-15T23:10:04.581Z",
+        "stripe_id": "cus_C8z3lT32P4tXgU",
+        "subscription_end": "2018-02-12T23:10:07.570Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 10,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$1ny81kIlfEVG$1Tt32JspE3WsaKhna4ga9eyZUYTM1ewvnJfUFbvjJJw=",
+        "last_login": "2018-01-15T23:14:40.632Z",
+        "is_superuser": false,
+        "username": "test6@hello.com",
+        "first_name": "",
+        "last_name": "",
+        "email": "test6@hello.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-01-15T23:14:37.680Z",
+        "stripe_id": "cus_C8z8DNPfRVFXsH",
+        "subscription_end": "2018-02-12T23:14:40.288Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 11,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$zn6nqwRepfqf$QCkwEdURWq/mAIzLGcPkBqMtGcliLunoLEvEmw+SvF0=",
+        "last_login": "2018-01-15T23:22:40.059Z",
+        "is_superuser": false,
+        "username": "test7@hello.com",
+        "first_name": "",
+        "last_name": "",
+        "email": "test7@hello.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-01-15T23:22:36.253Z",
+        "stripe_id": "cus_C8zGpcPPMxUee5",
+        "subscription_end": "2018-02-12T23:22:39.704Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 12,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$Q8eLRomgCPBs$fghkdzETqxn9z7PaX3gelhfpOZpFKDSu0DlcYkrrNoo=",
+        "last_login": "2018-02-05T20:22:56.368Z",
+        "is_superuser": false,
+        "username": "renantest1@ai.com",
+        "first_name": "",
+        "last_name": "",
+        "email": "renantest1@ai.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-01-18T22:35:30.779Z",
+        "stripe_id": "cus_CA6BIiE9ssQ7RU",
+        "subscription_end": "2018-02-15T22:46:48.965Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 13,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$w7v2DJiCuOC6$9m59WwEt0OdBebEA9wk4rmnNdbKnWzn/5v2jhfPD2fY=",
+        "last_login": "2018-01-23T13:12:14.193Z",
+        "is_superuser": true,
+        "username": "renandias@yahoo.com.br",
+        "first_name": "",
+        "last_name": "",
+        "email": "renandias@yahoo.com.br",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2018-01-19T21:26:48.669Z",
+        "stripe_id": "",
+        "subscription_end": "2018-01-19T21:26:48.669Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 14,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$7aKt6eZhMAf3$e69UoKBDgoddnZt62Q9GAl5iQnukyNearrBajFEyqNY=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "admin@hotmai.com",
+        "first_name": "",
+        "last_name": "",
+        "email": "admin@hotmai.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2018-01-19T21:37:31.236Z",
+        "stripe_id": "",
+        "subscription_end": "2018-01-19T21:37:31.236Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 15,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$sD80QJCaIS6c$SJOr8v3bkCAkTnDCodaH12ggAyzFS3uxj2SzXir7HL8=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "renatopacheco@hotmail.com",
+        "first_name": "",
+        "last_name": "",
+        "email": "renatopacheco@hotmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2018-01-19T21:50:44.064Z",
+        "stripe_id": "",
+        "subscription_end": "2018-01-19T21:50:44.064Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+        "name": "Renan Zabeu Pacheco Dias",
+        "description": "Gostoso",
+        "price": "30.00"
+    }
+},
+{
+    "model": "magazines.magazine",
+    "pk": 1,
+    "fields": {
+        "name": "Renan's Magazine",
+        "description": "Litecoin",
+        "price": "10.00"
+    }
+},
+{
+    "model": "magazines.magazine",
+    "pk": 2,
+    "fields": {
+        "name": "Esther's Magazine",
+        "description": "Esther",
+        "price": "10.00"
+    }
+},
+{
+    "model": "threads.subject",
+    "pk": 1,
+    "fields": {
+        "name": "Renan Zabeu Pacheco Dias",
+        "description": "<p>asdasdada</p>"
+    }
+},
+{
+    "model": "threads.thread",
+    "pk": 5,
+    "fields": {
+        "name": "G02000218",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "subject": 1,
+        "created_at": "2018-01-23T18:04:59.851Z"
+    }
+},
+{
+    "model": "threads.thread",
+    "pk": 6,
+    "fields": {
+        "name": "G02000216",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "subject": 1,
+        "created_at": "2018-01-23T18:06:22.921Z"
+    }
+},
+{
+    "model": "threads.thread",
+    "pk": 7,
+    "fields": {
+        "name": "G02000214",
+        "user": [
+            "renantest1@ai.com"
+        ],
+        "subject": 1,
+        "created_at": "2018-01-23T18:12:54.262Z"
+    }
+},
+{
+    "model": "threads.post",
+    "pk": 5,
+    "fields": {
+        "thread": 5,
+        "comment": "<p>dsasasdsa</p>",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "created_at": "2018-01-23T18:04:59.851Z"
+    }
+},
+{
+    "model": "polls.poll",
+    "pk": 4,
+    "fields": {
+        "question": "test",
+        "thread": 5
+    }
+},
+{
+    "model": "polls.poll",
+    "pk": 5,
+    "fields": {
+        "question": "fs",
+        "thread": 6
+    }
+},
+{
+    "model": "polls.poll",
+    "pk": 6,
+    "fields": {
+        "question": "eqw",
+        "thread": 7
+    }
+},
+{
+    "model": "polls.pollsubject",
+    "pk": 10,
+    "fields": {
+        "name": "test1",
+        "poll": 4
+    }
+},
+{
+    "model": "polls.pollsubject",
+    "pk": 11,
+    "fields": {
+        "name": "test2",
+        "poll": 4
+    }
+},
+{
+    "model": "polls.pollsubject",
+    "pk": 12,
+    "fields": {
+        "name": "test3",
+        "poll": 4
+    }
+},
+{
+    "model": "polls.pollsubject",
+    "pk": 13,
+    "fields": {
+        "name": "sd",
+        "poll": 5
+    }
+},
+{
+    "model": "polls.pollsubject",
+    "pk": 14,
+    "fields": {
+        "name": "ds",
+        "poll": 5
+    }
+},
+{
+    "model": "polls.pollsubject",
+    "pk": 15,
+    "fields": {
+        "name": "sd",
+        "poll": 5
+    }
+},
+{
+    "model": "polls.pollsubject",
+    "pk": 16,
+    "fields": {
+        "name": "ewq",
+        "poll": 6
+    }
+},
+{
+    "model": "polls.pollsubject",
+    "pk": 17,
+    "fields": {
+        "name": "ewq",
+        "poll": 6
+    }
+},
+{
+    "model": "polls.pollsubject",
+    "pk": 18,
+    "fields": {
+        "name": "ewq",
+        "poll": 6
+    }
+},
+{
+    "model": "reusable_blog.post",
+    "pk": 2,
+    "fields": {
+        "author": [
+            "renantest1@ai.com"
+        ],
+        "title": "Renan Conseguiu",
+        "content": "consegui!!!",
+        "created_date": "2018-01-22T23:29:43.512Z",
+        "published_date": "2018-01-22T23:29:43.512Z",
+        "views": 2,
+        "tag": null,
+        "image": ""
+    }
+},
+{
+    "model": "reusable_blog.post",
+    "pk": 5,
+    "fields": {
+        "author": [
+            "renandias@yahoo.com.br"
+        ],
+        "title": "test 1",
+        "content": ":)",
+        "created_date": "2018-01-23T10:50:02.914Z",
+        "published_date": "2018-01-23T10:50:02.909Z",
+        "views": 5,
+        "tag": null,
+        "image": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2018-01-19T21:56:49.590Z",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "1",
+        "object_repr": "Renan Zabeu Pacheco Dias",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2018-01-20T12:35:03.429Z",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "content_type": [
+            "magazines",
+            "magazine"
+        ],
+        "object_id": "1",
+        "object_repr": "Renan's Magazine",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2018-01-20T12:35:23.852Z",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "content_type": [
+            "magazines",
+            "magazine"
+        ],
+        "object_id": "2",
+        "object_repr": "Esther's Magazine",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2018-01-22T23:18:20.621Z",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "content_type": [
+            "reusable_blog",
+            "post"
+        ],
+        "object_id": "1",
+        "object_repr": "eqweqw",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2018-01-22T23:42:58.307Z",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "content_type": [
+            "reusable_blog",
+            "post"
+        ],
+        "object_id": "4",
+        "object_repr": "fs",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2018-01-22T23:42:58.473Z",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "content_type": [
+            "reusable_blog",
+            "post"
+        ],
+        "object_id": "3",
+        "object_repr": "fs",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2018-01-22T23:42:58.587Z",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "content_type": [
+            "reusable_blog",
+            "post"
+        ],
+        "object_id": "1",
+        "object_repr": "eqweqw",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2018-01-23T13:01:43.049Z",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "content_type": [
+            "threads",
+            "subject"
+        ],
+        "object_id": "1",
+        "object_repr": "Renan Zabeu Pacheco Dias",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2018-01-23T13:01:46.850Z",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "content_type": [
+            "threads",
+            "thread"
+        ],
+        "object_id": "1",
+        "object_repr": "Thread object",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2018-01-23T13:01:59.402Z",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "content_type": [
+            "threads",
+            "post"
+        ],
+        "object_id": "1",
+        "object_repr": "Post object",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2018-01-23T18:04:07.138Z",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "content_type": [
+            "threads",
+            "thread"
+        ],
+        "object_id": "4",
+        "object_repr": "Thread object",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2018-01-23T18:04:17.720Z",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "content_type": [
+            "threads",
+            "thread"
+        ],
+        "object_id": "3",
+        "object_repr": "Thread object",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2018-01-23T18:04:17.862Z",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "content_type": [
+            "threads",
+            "thread"
+        ],
+        "object_id": "2",
+        "object_repr": "Thread object",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2018-01-23T18:04:17.977Z",
+        "user": [
+            "renandias@yahoo.com.br"
+        ],
+        "content_type": [
+            "threads",
+            "thread"
+        ],
+        "object_id": "1",
+        "object_repr": "Thread object",
+        "action_flag": 3,
+        "change_message": ""
+    }
+}
+]
